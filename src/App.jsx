@@ -84,7 +84,7 @@ const PageView = props => {
           null
           :
           <div className="printer-div">
-            嘿嘿，小罗同学，点点旁边的按钮试试看吧^_^！
+            嘿嘿，瑞宝，点点旁边的按钮试试看吧^_^！
             &nbsp;
             <button onClick={() => {
               console.log('点了这个按钮');
