@@ -61,7 +61,7 @@ const Present = props => {
       // console.log('是否全屏', isFull(document.getElementById('sky')));
       let textone = document.querySelector('.textone').querySelector('h1');
       let text = document.querySelector('.text').querySelector('h1');
-      textone.innerHTML = '小罗同学，做我女朋友吧!!!';
+      textone.innerHTML = '瑞宝，做我女朋友吧!!!';
       textone.style.color = '#E8F9FD';
       textone.style.fontFamily = '华文楷体'
       text.innerHTML = '';
@@ -88,7 +88,7 @@ const Present = props => {
           <h1>I like you </h1>
         </div>
         <div className="text">
-          <h1> luo, please be my girlfriend!!! </h1>
+          <h1>  rui, please be my girlfriend!!! </h1>
         </div>
 
         <div className="container textContainer"></div>
